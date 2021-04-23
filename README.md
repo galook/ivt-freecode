@@ -4,6 +4,5 @@
 
 Legal notice:
 
-*It is advised to use this just and only for education purposes, as sending this code to Vojtíšek may result in a průser*
-
-    - galook
+ *It is advised to use this just and only for education purposes, as sending this code to Vojtíšek may result in a průser*
+   - galook
