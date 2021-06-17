@@ -1,5 +1,5 @@
-# ivt-freecode
-## Code, but literally for free
+# švandelovo-divadlo
+## Každý pátek pravidelně od 8:00 a 8:45
 ### Plně validní zdrojový kód námi použitý jako výsledek domácích prací z ivt
 
 Legal notice:
